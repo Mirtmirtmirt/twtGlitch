@@ -4,9 +4,6 @@ Look cool Twitter logo I made :)^^
 
 ## How to run?
 
- 1. Download uBlock Orgin
- 2. Element pick doge or Twitter logo. Make sure only the Logo is selected and nothing else. You may need to use the sliders in the uBlock menu.
- 3. Click create, you've successfully uBlocked the original logo
- 4. Download Stylebot
- 5. Open Stylebot on twitter.com and paste in the contents of [Custom.css](https://github.com/Mirtmirtmirt/twtGlitch/blob/main/Custom.css)
- 6. Glitch Twitte should be installed
+ 1. Download a user style manager for your web browser
+ 2. Import [Custom.css](https://github.com/Mirtmirtmirt/twtGlitch/blob/main/Custom.css) to your user tyle manager
+ 3. Make sure it's enabled on twitter.com, and you're done! 🥳
